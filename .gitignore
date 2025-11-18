@@ -1,0 +1,26 @@
+# Виртуальные окружения
+.venv/
+venv/
+
+# Python-мусор
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# Тесты и кеши
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE-шки
+.vscode/
+.idea/
+*.code-workspace
+
+# Прочее
+.env
+.env.*

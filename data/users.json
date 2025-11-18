@@ -1,0 +1,39 @@
+{
+  "1": {
+    "name": "Нурбай",
+    "login": "UserNyrbai",
+    "ava": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png",
+    "passwordHash": "$pbkdf2-sha256$29000$OOeccw5BSGmt1fr/f2.NEQ$0rvRnkZ379YsF8QdqHJtZiT7FkpM7j4BgHa5Tvmy.zQ"
+  },
+  "2": {
+    "name": "Роман",
+    "login": "UserRoman",
+    "ava": "https://i.pximg.net/img-original/img/2022/11/21/13/04/19/102976184_p0.png",
+    "passwordHash": "$pbkdf2-sha256$29000$DkForTVmDCGkFKJ07t279w$27H2ZR2qK.yeBm1NFqMsZ4164T1RBXav1.ZGEKXId9k"
+  },
+  "3": {
+    "name": "Влад",
+    "login": "UserVlad",
+    "ava": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png",
+    "passwordHash": "$pbkdf2-sha256$29000$U8q5FwJAyJmT0rr3XiuFcA$SwtSudb1NBLkdBeLe7sWMy12fuUKWdwoopoirfyH72o"
+  },
+  "4": {
+    "name": "Михаил",
+    "login": "UserMikhail",
+    "ava": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png",
+    "passwordHash": "$pbkdf2-sha256$29000$pVTqHUNoTWmtNYYwplTq3Q$Ycy4qKBESK8zDOR/yuk1krv31UXOa.elFGPm4wf1w04"
+  },
+  "5": {
+    "name": "Аскербек",
+    "login": "UserAskerbek",
+    "ava": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png",
+    "passwordHash": "$pbkdf2-sha256$29000$0rpXypmTEsIYA2BMiVFKKQ$EGEJ5bnxzpEjR/LZ4MULLidLH6l/Fq.IKUoc2LTNQ/Q"
+  },
+  "6": {
+    "name": "Жан Пак",
+    "login": "dj_an_pack_01",
+    "email": "dj_an_pack@gmail.com",
+    "ava": "https://i.pximg.net/img-original/img/2025/11/15/13/40/50/137493998_p0.png",
+    "passwordHash": "$pbkdf2-sha256$29000$IURoTYmRcq7V.h8j5FxLCQ$1Fy9lXl4k1T311MBhnO5RaqVcysZo/ZRHQzAOSyMsV4"
+  }
+}

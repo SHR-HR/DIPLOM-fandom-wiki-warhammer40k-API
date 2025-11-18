@@ -1,0 +1,2338 @@
+[
+  {
+    "id": 1001,
+    "author": "Администратор",
+    "author_id": 1,
+    "title": "Император Человечества",
+    "previewImg": "https://i.pinimg.com/originals/74/60/2e/74602e8f71f1eae66e18d28802064b08.jpg",
+    "mainInfo": {
+      "name": "Император Человечества",
+      "image": "https://i.pinimg.com/736x/66/7d/44/667d448666da6fddb259fa5a0583f94a.jpg",
+      "age": 48000,
+      "birthday": "ок. 8000 до н.э., Древняя Терра",
+      "gender": "муж.",
+      "appearance": "Золотая экзо-броня, пылающая аура, китиановый Трон",
+      "height": "≈3–4 м (боевой облик)",
+      "weight": "—",
+      "other": {
+        "статус": "на Золотом Троне",
+        "роль": "пси-маяк Астраномикона"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Повелитель человечества"
+      },
+      {
+        "type": "p",
+        "content": "Бессмертный псион, архитектор Империума и создатель Примархов. Его существование удерживает навигацию через Варп."
+      },
+      {
+        "type": "h2",
+        "content": "Великий Крестовый Поход"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Объединение Терры и Марса"
+          },
+          {
+            "content": "20 Примархов и Легионы Астартес"
+          },
+          {
+            "content": "Секулярный гуманизм против варпа-культа (не надолго)"
+          }
+        ]
+      },
+      {
+        "type": "h2",
+        "content": "Ересь Гора и Трон"
+      },
+      {
+        "type": "p",
+        "content": "После дуэли с Гором Император прикован к Золотому Трону, подпитывая Астраномикон и бюрократическую машину Империума."
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "author": "Администратор",
+    "author_id": 1,
+    "title": "Робаут Жиллиман",
+    "previewImg": "https://avatars.dzeninfra.ru/get-zen_doc/3638148/pub_5f4d52e415ea30356681601b_5f4d6432a49a104eddac39d7/scale_1200",
+    "mainInfo": {
+      "name": "Робаут Жиллиман",
+      "image": "https://artwork.40k.gallery/wp-content/uploads/2023/01/Roboute-Guilliman-1-768x1104.jpg.webp",
+      "age": 10300,
+      "birthday": "Эпоха Крестового Похода",
+      "gender": "муж.",
+      "appearance": "Кобальтовая геральдика, логотип «У», гладиус",
+      "height": "≈3.5 м",
+      "weight": "—",
+      "other": {
+        "титул": "Лорд-Командующий Империума",
+        "кодекс": "Автор Codex Astartes"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Примарх Ультрамаринов"
+      },
+      {
+        "type": "p",
+        "content": "Государственник и стратег. Ультрамар — эталонная область Империума с 500 мирами."
+      },
+      {
+        "type": "h2",
+        "content": "Возвращение в М41"
+      },
+      {
+        "type": "p",
+        "content": "Пробуждён эльдарами Иврейн. Реформирует Империум, балансируя между фанатизмом и прагматизмом."
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "author": "Администратор",
+    "author_id": 1,
+    "title": "Сангвиний",
+    "previewImg": "https://i.pinimg.com/originals/7d/3b/51/7d3b51481de8330a802b68e1f69a3d8a.jpg",
+    "mainInfo": {
+      "name": "Сангвиний",
+      "image": "https://image.cdn2.seaart.me/temp-convert-webp/jpeg/static/573a88438bdb47a1aad8ea71145f4c02/1689184507245/aefe1029cc40e7f590583c2d30a158d6_low.webp",
+      "age": 10000,
+      "birthday": "Эпоха Крестового Похода",
+      "gender": "муж.",
+      "appearance": "Ангельские крылья, золотая броня, копьё",
+      "height": "≈3.5 м",
+      "weight": "—",
+      "other": {
+        "наследие": "Чёрная Ярость и Красный Голос в ордене"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Великий Ангел"
+      },
+      {
+        "type": "p",
+        "content": "Символ благородства Империума. Его смерть на борту «Мстительного Духа» стала мифом-опорой для ордена."
+      },
+      {
+        "type": "h2",
+        "content": "Пророческие видения"
+      },
+      {
+        "type": "p",
+        "content": "Предвидел падение Гора и собственную гибель; это проклятием отзывается в геносемени Кровавых Ангелов."
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "author": "Администратор",
+    "author_id": 1,
+    "title": "Гор Луперкаль",
+    "previewImg": "https://cs10.pikabu.ru/post_img/2020/10/22/7/og_og_1603361228266522814.jpg",
+    "mainInfo": {
+      "name": "Гор Луперкаль",
+      "image": "https://fanfics.me/images/fanart/2024/12/31/1735630109372.jpg",
+      "age": 10000,
+      "birthday": "Эпоха Крестового Похода",
+      "gender": "муж.",
+      "appearance": "Чёрная броня, Когти Луперкаля",
+      "height": "≈4 м",
+      "weight": "—",
+      "other": {
+        "титул": "Воитель",
+        "роль": "главком легионов до предательства"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Первый среди равных"
+      },
+      {
+        "type": "p",
+        "content": "Любимый сын Императора, ставший знаменем восстания. Его падение раскололо Империум."
+      },
+      {
+        "type": "h2",
+        "content": "Давеин и развращение"
+      },
+      {
+        "type": "p",
+        "content": "Манипуляции варпа и культов превратили прагматика в мессию разрушения."
+      }
+    ]
+  },
+  {
+    "id": 1005,
+    "author": "Администратор",
+    "author_id": 1,
+    "title": "Лион Эль'Джонсон",
+    "previewImg": "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_689386f3e8f64630e6153bd5_68938abda844a560af1d7bfa/scale_1200",
+    "mainInfo": {
+      "name": "Лион Эль'Джонсон",
+      "image": "https://cdnb.artstation.com/p/assets/images/images/014/856/343/4k/koh-lj-lion-el-jonson.jpg?1545930797",
+      "age": 10300,
+      "birthday": "Калибан",
+      "gender": "муж.",
+      "appearance": "Тёмно-зелёная геральдика, меч Льва",
+      "height": "≈3.5 м",
+      "weight": "—",
+      "other": {
+        "статус": "пробудился в М42",
+        "тайна": "Падшие Тёмных Ангелов"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Владыка Тёмных Ангелов"
+      },
+      {
+        "type": "p",
+        "content": "Холодный интеллект, маниакальная охота за Падшими — наследие внутреннего раскола легиона."
+      },
+      {
+        "type": "h2",
+        "content": "Скала и возвращение"
+      },
+      {
+        "type": "p",
+        "content": "Лион тысячелетиями пребывал в стазисе в Скале и вернулся, когда Империум трещал по швам."
+      }
+    ]
+  },
+  {
+    "id": 1006,
+    "author": "Администратор",
+    "author_id": 1,
+    "title": "Лемен Русс",
+    "previewImg": "https://i.ytimg.com/vi/G9qw4Rcfm1c/maxresdefault.jpg",
+    "mainInfo": {
+      "name": "Лемен Русс",
+      "image": "https://i.pinimg.com/736x/54/c4/05/54c405671d57e9d47a03b86c3db4d30f.jpg",
+      "age": 10000,
+      "birthday": "Фенрис",
+      "gender": "муж.",
+      "appearance": "Серые рунические доспехи, коса/молот, меха",
+      "height": "≈3.6 м",
+      "weight": "—",
+      "other": {
+        "эпитет": "Палач Императора",
+        "судьба": "исчез в Варпе, «вернётся на пир»"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Примарх Космических Волков"
+      },
+      {
+        "type": "p",
+        "content": "Воин-берсерк с кодексом чести. Исполнял приказы Императора, когда требовалась «страшная рука закона»."
+      },
+      {
+        "type": "h2",
+        "content": "Просперо"
+      },
+      {
+        "type": "p",
+        "content": "Атака на мир Магнуса — рана, не заживающая между легионами."
+      }
+    ]
+  },
+  {
+    "id": 1007,
+    "author": "Администратор",
+    "author_id": 1,
+    "title": "Магнус Красный",
+    "previewImg": "https://i.ytimg.com/vi/TFI7KYkMiF8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE0gSChlMA8=&rs=AOn4CLDJk-yqhzx3Tl2tgn7MmqwGE1MbNg",
+    "mainInfo": {
+      "name": "Магнус Красный",
+      "image": "https://static.wikia.nocookie.net/warhammer40k/images/7/7b/Magnus-1.jpg/revision/latest?cb=20161205070527",
+      "age": 10000,
+      "birthday": "Просперо",
+      "gender": "муж.",
+      "appearance": "Алая кожа, единый огромный глаз, арканы",
+      "height": "≈5 м",
+      "weight": "—",
+      "other": {
+        "роль": "верховный псион среди Примархов",
+        "статус": "Демон-Примарх Тзинча"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Малиновый Король"
+      },
+      {
+        "type": "p",
+        "content": "Пытался предупредить Императора, но разрушил Просперо. Трагедия «добрых намерений» в мире варпа."
+      },
+      {
+        "type": "h2",
+        "content": "Планета Колдунов"
+      },
+      {
+        "type": "p",
+        "content": "Правит колдовским миром и ведёт вечную интригу против Империума."
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "author": "Администратор",
+    "author_id": 1,
+    "title": "Вулкан",
+    "previewImg": "https://i.ytimg.com/vi/sRF4d04st58/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXihMMA8=&rs=AOn4CLAw1gNEN2oJSXzIDAbniqYBCMdlMw",
+    "mainInfo": {
+      "name": "Вулкан",
+      "image": "https://i.pinimg.com/1200x/68/ea/57/68ea578f91709e9ab9bd45de1e299174.jpg",
+      "age": 10000,
+      "birthday": "Ноктюрн",
+      "gender": "муж.",
+      "appearance": "Эбеновая кожа, изумрудная геральдика, молоты",
+      "height": "≈4 м",
+      "weight": "—",
+      "other": {
+        "особенность": "«Вечный» — фактически неубиваем"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Гуманист среди титанов"
+      },
+      {
+        "type": "p",
+        "content": "Проповедовал защиту мирных жителей; Саламандры славятся огнемётами и упрямой человечностью."
+      },
+      {
+        "type": "h2",
+        "content": "Артефакты Ноктюрна"
+      },
+      {
+        "type": "p",
+        "content": "Сбор наследия Вулкана — ключ к его окончательному возвращению."
+      }
+    ]
+  },
+  {
+    "id": 1009,
+    "author": "Администратор",
+    "author_id": 1,
+    "title": "Корвус Коракс",
+    "previewImg": "https://cs13.pikabu.ru/post_img/2023/04/16/6/og_og_168163580524444939.jpg",
+    "mainInfo": {
+      "name": "Корвус Коракс",
+      "image": "https://cs19.pikabu.ru/s/2025/05/13/08/2ed54jmr_lg.jpg",
+      "age": 10000,
+      "birthday": "Деливеранс",
+      "gender": "муж.",
+      "appearance": "Чёрная броня, бледность, прыжковые ранцы",
+      "height": "≈3.4 м",
+      "weight": "—",
+      "other": {
+        "доктрина": "скрытность, диверсии, партизанские рейды"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Тень Империума"
+      },
+      {
+        "type": "p",
+        "content": "Освободитель Деливеранса, мастер подрывной войны. После Ереси стал призрачным мстителем."
+      },
+      {
+        "type": "h2",
+        "content": "Эксперименты и вина"
+      },
+      {
+        "type": "p",
+        "content": "Неудачные попытки ускоренного рекрутинга оставили шрамы на совести Примарха."
+      }
+    ]
+  },
+  {
+    "id": 1010,
+    "author": "Администратор",
+    "author_id": 1,
+    "title": "Орки",
+    "previewImg": "https://i.pinimg.com/originals/b2/b0/b7/b2b0b7ac7f02df388a9a4737a7e153e1.jpg",
+    "mainInfo": {
+      "name": "Орки",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c99ff0d3-952b-4438-ae3e-9e99c0ac546d/dkorevk-406b88cf-e5ef-4a0b-b735-6b19e742f573.jpg/v1/fit/w_828,h_1104,q_70,strp/ork_fungal_lord_by_geeplays69_dkorevk-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jOTlmZjBkMy05NTJiLTQ0MzgtYWUzZS05ZTk5YzBhYzU0NmQvZGtvcmV2ay00MDZiODhjZi1lNWVmLTRhMGItYjczNS02YjE5ZTc0MmY1NzMuanBnIiwiaGVpZ2h0IjoiPD0xMjAxIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiIvd20vYzk5ZmYwZDMtOTUyYi00NDM4LWFlM2UtOWU5OWMwYWM1NDZkL2dlZXBsYXlzNjktNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.pmY17g5NGD5RrBer_eJxADqluAyZZgd0wPEtMHoZpGQ",
+      "age": 60000000,
+      "birthday": "созданы Древними",
+      "gender": "—",
+      "appearance": "Зелёные громилы, споровая биология, лата-тех",
+      "height": "1.8–3.0 м",
+      "weight": "тяжёлые",
+      "other": {
+        "полевой_эффект": "Вааагх! — коллективное пси-поле"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Зелёная угроза"
+      },
+      {
+        "type": "p",
+        "content": "Орки верят — и техника работает. Красное быстрее, синие на удачу, жёлтое — взрывается громче."
+      },
+      {
+        "type": "h2",
+        "content": "Культура дракины"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Мекбойзы «вспоминают» технологии"
+          },
+          {
+            "content": "Нобы, бойзы, гретчины, гарганты"
+          },
+          {
+            "content": "Вааагх! как миграционно-военная синергия"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1011,
+    "author": "Администратор",
+    "title": "Тау",
+    "previewImg": "https://i.pinimg.com/736x/e4/ad/5e/e4ad5e4e1f5f47bae7c5cb078fde14db.jpg",
+    "mainInfo": {
+      "name": "Империя Тау",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c958eeef-7b90-4bce-af8f-e6c406a36d80/dkgnxhm-50e79973-f454-4455-b80c-9b5e120a2a6b.png/v1/fit/w_828,h_1078,q_70,strp/tau_girl_13_by_milkmaidava_dkgnxhm-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jOTU4ZWVlZi03YjkwLTRiY2UtYWY4Zi1lNmM0MDZhMzZkODAvZGtnbnhobS01MGU3OTk3My1mNDU0LTQ0NTUtYjgwYy05YjVlMTIwYTJhNmIucG5nIiwiaGVpZ2h0IjoiPD0xNjY3Iiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiL3dtL2M5NThlZWVmLTdiOTAtNGJjZS1hZjhmLWU2YzQwNmEzNmQ4MC9taWxrbWFpZGF2YS00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.BNDZIt8Q8niHVY-m5IfOXiaCiiSn2vhK5FYdCu4yTq8",
+      "age": 6000,
+      "birthday": "37-е тысячелетие",
+      "gender": "—",
+      "appearance": "Чистые линии техники, мех-костюмы Crisis, дроны сопровождения.",
+      "height": "1.5–1.7 м (тау)",
+      "weight": "—",
+      "other": {
+        "идеи": "Т’ау’ва — «Высшее Благо»",
+        "касты": "Огонь, Земля, Воздух, Вода, Эфирные"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Империя Высшего Блага"
+      },
+      {
+        "type": "p",
+        "content": "Молодая звёздная держава, делающая ставку на дальний бой, точность и кооперацию разных рас под идеологией Т’ау’ва."
+      },
+      {
+        "type": "h2",
+        "content": "Военная доктрина"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Манёвренные огневые группы и синхронные залпы"
+          },
+          {
+            "content": "Баттлсьюты: Crisis, Broadside, Riptide"
+          },
+          {
+            "content": "Дроны-щиты, маркеры-наводчики"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "content": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3415a4d-c1f6-40e0-8930-b34d0ede99d6/dkftmam-147e681a-afac-426a-9a51-6edb026c0f08.png/v1/fill/w_1192,h_670,q_70,strp/t_au___stance_dance__by_juicy_juices_dkftmam-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiIvZi9kMzQxNWE0ZC1jMWY2LTQwZTAtODkzMC1iMzRkMGVkZTk5ZDYvZGtmdG1hbS0xNDdlNjgxYS1hZmFjLTQyNmEtOWE1MS02ZWRiMDI2YzBmMDgucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.44T0R3f4L_l1lqAmu3Hy3L8aHcOpeJZ2hf1AWLmWNFk"
+      },
+      {
+        "type": "p",
+        "content": "Дипломатия и вассальные договоры с крутами, веспидами и людьми-гаэлами делают экспансию гибкой."
+      }
+    ]
+  },
+  {
+    "id": 1012,
+    "author": "Администратор",
+    "title": "Тираниды",
+    "previewImg": "https://img1.reactor.cc/pics/post/full/Tyranids-Warhammer-40000-Astra-Militarum-Imperium-8148879.jpeg",
+    "mainInfo": {
+      "name": "Рои Великого Пожирателя",
+      "image": "https://img0.reactor.cc/pics/post/full/Tyranids-Warhammer-40000-alex-boyd-artist-7404774.jpeg",
+      "age": 10000000,
+      "birthday": "Внегалактическое происхождение",
+      "gender": "—",
+      "appearance": "Биоморфы, хитиновая броня, органические корабли.",
+      "height": "от спора до биотитана",
+      "weight": "—",
+      "other": {
+        "флоты": "Бегемот, Кракен, Левиафан",
+        "особенность": "Улей-разум, быстрая адаптация"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Голод, что смотрит на звёзды"
+      },
+      {
+        "type": "p",
+        "content": "Раса-рёй, перерабатывающая планеты. Командование — через психосеть Улья; одиночки почти не встречаются."
+      },
+      {
+        "type": "h2",
+        "content": "Инструменты Улья"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Гаунты и генокрады — штурм и инфильтрация"
+          },
+          {
+            "content": "Карнифексы, тиран-воины — тяжёлая поддержка"
+          },
+          {
+            "content": "Синапсные существа удерживают контроль роем"
+          }
+        ]
+      },
+      {
+        "type": "p",
+        "content": "После кормёжки флот покидает безжизнный мир, оставляя каменную корку и молчание."
+      }
+    ]
+  },
+  {
+    "id": 1013,
+    "author": "Администратор",
+    "title": "Некроны",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/Warhammer-40000-khorne-berzerker-Chaos-Space-Marine-Chaos-%28Wh-40000%29-7599632.jpeg",
+    "mainInfo": {
+      "name": "Династии Некронтир",
+      "image": "https://img0.reactor.cc/pics/post/full/Warhammer-40000-cryptek-Necrons-Tyranids-8623788.jpeg",
+      "age": 60000000,
+      "birthday": "Война в Небесах",
+      "gender": "—",
+      "appearance": "Металлические скелеты с зелёными энергосвязями.",
+      "height": "≈2 м (пехота)",
+      "weight": "—",
+      "other": {
+        "технологии": "Гаусс, порталы, монолиты",
+        "режим": "ста́зис гробниц, пробуждение"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Возвращение хозяев гробниц"
+      },
+      {
+        "type": "p",
+        "content": "Бывшие некронтир обменяли плоть на некродерму и вечность. Пробуждаясь, они требуют старые владения обратно."
+      },
+      {
+        "type": "h2",
+        "content": "Холодный порядок"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Иерархия: НеКавалы — Лорды — Фаэроны"
+          },
+          {
+            "content": "Безжалостные алгоритмы войны и телепортация"
+          },
+          {
+            "content": "Некоторые правители сохранили личность, другие — лишь протокол"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1014,
+    "author": "Администратор",
+    "title": "Эльдар",
+    "previewImg": "https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700728406-1024x576.jpg",
+    "mainInfo": {
+      "name": "Аэльдари (крафтворлды)",
+      "image": "https://img1.reactor.cc/pics/post/full/нейроарт-нейронные-сети-Eldar-Aeldari-9108125.png",
+      "age": 60000000,
+      "birthday": "Пост-Падение",
+      "gender": "—",
+      "appearance": "Изящные доспехи, рунические знаки, психокристаллы.",
+      "height": "1.8–2.2 м",
+      "weight": "—",
+      "other": {
+        "философия": "Пути дисциплины",
+        "магия": "псионика и рунические матрицы"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "После крика Слаанеша"
+      },
+      {
+        "type": "p",
+        "content": "Пути — строгие роли, сдерживающие искушения. Крафтворлды — ковчеги, что бредут по звёздам."
+      },
+      {
+        "type": "h2",
+        "content": "Аспекты Войны"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Мономах, Паук Пустоты, Море Мстителей"
+          },
+          {
+            "content": "Фарсиры и Варлоки — провидцы судеб"
+          },
+          {
+            "content": "Души в спирит-стоунах для защиты от Слаанеша"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1015,
+    "author": "Администратор",
+    "title": "Хаос",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/Notramilopak-Hellbrute-Chaos-Space-Marine-Chaos-%28Wh-40000%29-9042858.jpeg",
+    "mainInfo": {
+      "name": "Погибельные Силы",
+      "image": "https://img0.reactor.cc/pics/post/full/Chaos-%28Wh-40000%29-Warhammer-40000-Chaos-Sorcerer-Chaos-Space-Marine-9111828.jpeg",
+      "age": 1000000,
+      "birthday": "Варп/Имматериум",
+      "gender": "—",
+      "appearance": "Демоны, мутирующая плоть, рунические знаки богов.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "пантеон": "Кхорн, Нургл, Тзинч, Слаанеш",
+        "носители": "Культы, Хаос-Космодесант"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Боги эмоций"
+      },
+      {
+        "type": "p",
+        "content": "Варп — океан мыслей и страстей. Там рождаются боги, отражающие эксцессы смертных, и тянущие мир к энтропии."
+      },
+      {
+        "type": "h2",
+        "content": "Инструменты развращения"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Дары-мутации и одержимость"
+          },
+          {
+            "content": "Колдовство и разломы в реальности"
+          },
+          {
+            "content": "Легионы-предатели и бесчисленные культы"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1016,
+    "author": "Администратор",
+    "title": "Инквизиция",
+    "previewImg": "https://img1.reactor.cc/pics/post/full/Warhammer-40000-Grey-Knights-Ordo-Malleus-Inquisition-9021125.jpeg",
+    "mainInfo": {
+      "name": "Святая Ордо",
+      "image": "https://img0.reactor.cc/pics/post/full/Warhammer-40000-Inquisition-Imperium-Crusaders-%28Wh-40k%29-7956190.jpeg",
+      "age": 10000,
+      "birthday": "После Ереси Гора",
+      "gender": "—",
+      "appearance": "Печати чистоты, аквилы, чёрные мантии.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "ордосы": "Херетикус, Маллеус, Ксенос",
+        "право": "экскоммуника траиторис"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Щит от внутренних угроз"
+      },
+      {
+        "type": "p",
+        "content": "Инквизиторы действуют вне обычных законов, преследуя ересь, демонов и ксеносов. Их решения окончательны."
+      },
+      {
+        "type": "h2",
+        "content": "Методы"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Дознание, проверка чистоты, санкционированные псионики"
+          },
+          {
+            "content": "Сотрудничество с Орденом Сороритас и Серых Рыцарей"
+          },
+          {
+            "content": "Экстремис-уровни: зачистка миров экстерминатусом"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1017,
+    "author": "Администратор",
+    "title": "Адептус Механикус",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/Warhammer-40000-Iron-Hands-Space-Marine-Imperium-8966204.jpeg",
+    "mainInfo": {
+      "name": "Культ Машины",
+      "image": "https://img10.reactor.cc/pics/post/full/MOSSA-artist-Faphammer-Warhammer-40000-8925239.jpeg",
+      "age": 15000,
+      "birthday": "Эра Раздора",
+      "gender": "—",
+      "appearance": "Красные ризы, сервопауки, мехадендриты.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "догма": "Машинный Дух и ШТК",
+        "центры": "Марс и форж-миры"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Знание — молитва"
+      },
+      {
+        "type": "p",
+        "content": "Для техножрецов любой механизм одушевлён. Ремонт — это литания, а инновация без ритуала — подозрительна."
+      },
+      {
+        "type": "h2",
+        "content": "Силы и ответственность"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Скиитари, Кастелланы, баллисты и титаны"
+          },
+          {
+            "content": "Монополия на техобслуживание Империума"
+          },
+          {
+            "content": "Охота за утраченными ШТК"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1018,
+    "author": "Администратор",
+    "title": "Имперская Гвардия",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/warhammer-40k-Wh-Песочница-ваха-space-marines-1878328.jpeg",
+    "mainInfo": {
+      "name": "Астра Милитарум",
+      "image": "https://img2.joyreactor.com/pics/post/full/Ibram-Gaunt-Commissar-(wh-40000)-Astra-Militarum-8605967.jpeg",
+      "age": 10000,
+      "birthday": "Пост-Ересь Гора",
+      "gender": "—",
+      "appearance": "Миллионы солдат, танки Леман Русс, батареи Базилисков.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "лозунг": "Молот Императора",
+        "масштаб": "триггерымилиарды"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Пехота против космоса"
+      },
+      {
+        "type": "p",
+        "content": "Человеческая масса, дисциплина и артиллерия удерживают Империум на краю гибели."
+      },
+      {
+        "type": "h2",
+        "content": "Полки и традиции"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Кадианцы — образцовая оборона"
+          },
+          {
+            "content": "Катачаны — джунглевые охотники"
+          },
+          {
+            "content": "Танковые армии Армагеддона"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1019,
+    "author": "Администратор",
+    "title": "Ультрамарины",
+    "previewImg": "https://img2.joyreactor.com/pics/post/full/warhammer-40000-fandoms-Ultramarines-8950337.jpeg",
+    "mainInfo": {
+      "name": "Орден Ультрамаринов",
+      "image": "https://img10.joyreactor.com/pics/post/full/warhammer-40000-fandoms-Primarchs-9005170.jpeg",
+      "age": 10000,
+      "birthday": "Разделение легионов",
+      "gender": "—",
+      "appearance": "Синие доспехи с буквой «У», римская эстетика.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "примарх": "Робаут Жиллиман",
+        "кодекс": "Astartes — их канон"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Эталон Империума"
+      },
+      {
+        "type": "p",
+        "content": "Орден, который чаще всего цитируют как пример дисциплины, логистики и политической зрелости."
+      },
+      {
+        "type": "h2",
+        "content": "Ультрамар"
+      },
+      {
+        "type": "p",
+        "content": "Регион из сотен миров с эффективным управлением и обороной. Отсюда — стабильность и влияние ордена."
+      }
+    ]
+  },
+  {
+    "id": 1020,
+    "author": "Администратор",
+    "title": "Кровавые Ангелы",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/Blood-Angels-Space-Marine-Imperium-Warhammer-40000-8892904.jpeg",
+    "mainInfo": {
+      "name": "Орден Кровавых Ангелов",
+      "image": "https://img10.reactor.cc/pics/post/full/Warhammer-40000-Wh-Other-Wh-r63-Wh-Crossover-9127537.jpeg",
+      "age": 10000,
+      "birthday": "После Разделения",
+      "gender": "—",
+      "appearance": "Красные доспехи с кровлей и крыльями, эстетика искусства.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "проклятие": "Чёрная Ярость и Жажда Крови",
+        "примарх": "Сангвиний"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Красота и жажда"
+      },
+      {
+        "type": "p",
+        "content": "Один из самых благородных орденов, обречённый на наследственную тягу к кровопролитию и видения смерти Сангвиния."
+      },
+      {
+        "type": "h2",
+        "content": "Боевые черты"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Штурмовые десанты и реактивные ранцы"
+          },
+          {
+            "content": "Элита Сангвиниариев и Стражей Смерти"
+          },
+          {
+            "content": "Иконография мученичества и надежды"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1021,
+    "author": "Администратор",
+    "title": "Тёмные Ангелы",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/Warhammer-40000-TazMar-Lion-El%27Jonson-Primarchs-7915570.png",
+    "mainInfo": {
+      "name": "Орден Тёмных Ангелов",
+      "image": "https://img0.reactor.cc/pics/post/full/Dark-Angels-Space-Marine-Imperium-Warhammer-40000-8533990.jpeg",
+      "age": 10000,
+      "birthday": "После Разделения Легионов",
+      "gender": "—",
+      "appearance": "Изумрудно-зелёные доспехи, монашеские рясы, крылатые символы.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "примарх": "Лион Эль’Джонсон",
+        "тайна": "Падшие (The Fallen)"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Тайна — их второе оружие"
+      },
+      {
+        "type": "p",
+        "content": "Старейший орден космодесанта, одержимый охотой на собственных предателей — Падших. Иерархия скрывает правду даже от братии."
+      },
+      {
+        "type": "h2",
+        "content": "Крыло Равен и Коготь"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Deathwing — элита в терминаторской броне"
+          },
+          {
+            "content": "Ravenwing — быстрые охотники на спидерах и везернах"
+          },
+          {
+            "content": "Инквизиторский уровень секретности внутри ордена"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1022,
+    "author": "Администратор",
+    "title": "Чёрные Храмовники",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/Warhammer-40000-Black-Templars-Space-Marine-Imperium-8469340.jpeg",
+    "mainInfo": {
+      "name": "Орден Чёрных Храмовников",
+      "image": "https://img0.reactor.cc/pics/post/full/Warhammer-40000-Space-Marine-Imperium-Black-Templars-8353866.jpeg",
+      "age": 10000,
+      "birthday": "Крестовые походы после Разделения",
+      "gender": "—",
+      "appearance": "Чёрные доспехи с белыми крестами, цепные мечи, мощные клятвы.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "основа": "вечные крестовые походы",
+        "идеал": "чистая вера и ярость"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Орден, который никогда не стоит на месте"
+      },
+      {
+        "type": "p",
+        "content": "Не имеют фиксированной крепости-монастыря — лишь флот и кампания за кампанией. Крестовые походы длятся столетиями."
+      },
+      {
+        "type": "h2",
+        "content": "Боевой ритуал"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Инициаты и неофиты сражаются в звеньях"
+          },
+          {
+            "content": "Отрицание колдовства; упор на ближний бой"
+          },
+          {
+            "content": "Ревнители, Маршалы, Высшие маршалы"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1023,
+    "author": "Администратор",
+    "title": "Серые Рыцари",
+    "previewImg": "https://img1.reactor.cc/pics/post/full/Warhammer-40000-zhang-han-artist-Grand-Master-Voldus-7670783.jpeg",
+    "mainInfo": {
+      "name": "Орден Серых Рыцарей",
+      "image": "https://img0.reactor.cc/pics/post/full/Grey-Knights-Ordo-Malleus-Inquisition-Imperium-6429092.jpeg",
+      "age": 10000,
+      "birthday": "Тайны Ордоса Маллеус",
+      "gender": "—",
+      "appearance": "Серебристые силовые доспехи, психосимволы, силовые алебарды.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "задача": "борьба с демонами",
+        "секрет": "все бойцы — санкционированные псайкеры"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Чистота — броня, вера — клинок"
+      },
+      {
+        "type": "p",
+        "content": "Сверхсекретный орден, созданный для уничтожения демонических угроз. Генно-линии отобраны для максимальной устойчивости к порче."
+      },
+      {
+        "type": "h2",
+        "content": "Оперативные практики"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Астартес-псайкеры, ритуалы защиты, экзорцизмы"
+          },
+          {
+            "content": "Стелс-высадки в эпицентр вторжений"
+          },
+          {
+            "content": "Сотрудничество с Ордо Маллеус"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1024,
+    "author": "Администратор",
+    "title": "Сёстры Битвы",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/Adepta-Sororitas-Ecclesiarchy-Imperium-Warhammer-40000-8149638.jpeg",
+    "mainInfo": {
+      "name": "Адепта Сороритас",
+      "image": "https://img1.reactor.cc/pics/post/full/Warhammer-40000-Living-Saint-Adepta-Sororitas-Ecclesiarchy-8630861.jpeg",
+      "age": 4000,
+      "birthday": "Реформы С. Тор",
+      "gender": "Женщины-воины",
+      "appearance": "Эбонитовая броня, белые лилии, флеймтроуеры и гимны.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "орденки": "Благодати, Нашедших Мучеников, Священной Розы и др.",
+        "дар": "Акты веры"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Гимны пылают громче огнемётов"
+      },
+      {
+        "type": "p",
+        "content": "Военное крыло Экклезиархии. Их вера буквально творит «чудеса» — тактические всплески удачи и стойкости."
+      },
+      {
+        "type": "h2",
+        "content": "Образы войны"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Домин иммоляторы, экзорцисты-мортиры"
+          },
+          {
+            "content": "Приоратские милитии и элитные канониссы"
+          },
+          {
+            "content": "Чистка культов и ведьм совместно с Инквизицией"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1025,
+    "author": "Администратор",
+    "title": "Альфа-Легион",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/Warhammer-40000-Horus-Heresy-Wh-Past-Alpha-Legion-7723074.jpeg",
+    "mainInfo": {
+      "name": "Альфа-Легион (Хаос)",
+      "image": "https://img0.reactor.cc/pics/post/full/CerxiS-artist-Warhammer-40000-Alpha-Legion-6332782.jpeg",
+      "age": 10000,
+      "birthday": "Ересь Гора",
+      "gender": "—",
+      "appearance": "Сине-зелёные доспехи, змеиная символика, маскировка.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "примархи": "Альфарий/Омегон",
+        "доктрина": "саботаж, инфильтрация, ложь"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Мы — Альфа Легион. Мы — Альфа Легион?"
+      },
+      {
+        "type": "p",
+        "content": "Специалисты по информационным войнам. Их победы — это распад врага изнутри, а не фронтальные штурмы."
+      },
+      {
+        "type": "h2",
+        "content": "Методы тени"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Спящие ячейки и ложные флаги"
+          },
+          {
+            "content": "Рекрутинг культов и подмена лидеров"
+          },
+          {
+            "content": "Паранойя как оружие массового поражения"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1026,
+    "author": "Администратор",
+    "title": "Ночные Лорды",
+    "previewImg": "https://img1.reactor.cc/pics/post/full/Warhammer-40000-Black-Legion-Undivided-Chaos-%28Wh-40000%29-8902067.jpeg",
+    "mainInfo": {
+      "name": "Ночные Лорды (Хаос)",
+      "image": "https://img0.reactor.cc/pics/post/full/Warhammer-40000-Black-Legion-Undivided-Chaos-%28Wh-40000%29-8902066.jpeg",
+      "age": 10000,
+      "birthday": "Ересь Гора",
+      "gender": "—",
+      "appearance": "Синяя броня с молниями, черепа, крылатые мотивы ужаса.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "примарх": "Конрад Кёрз",
+        "тактика": "террор, публичные казни, психологическое давление"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Страх — лучший полководец"
+      },
+      {
+        "type": "p",
+        "content": "Они ломают города и воли до начала боя. Жестокость — инструмент, верность богам Хаоса вторична."
+      },
+      {
+        "type": "h2",
+        "content": "Ночная охота"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Десант из тьмы, сирены и голограммы"
+          },
+          {
+            "content": "Прицельный террор против элиты и духовенства"
+          },
+          {
+            "content": "Ужас как форс-множитель тактики"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1027,
+    "author": "Администратор",
+    "title": "Имперские Кулаки",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/Imperial-Fists-Space-Marine-Imperium-Warhammer-40000-9030866.jpeg",
+    "mainInfo": {
+      "name": "Орден Имперских Кулаков",
+      "image": "https://img0.reactor.cc/pics/post/full/cristian-alias-artist-Warhammer-40000-Ultramarines-9075874.jpeg",
+      "age": 10000,
+      "birthday": "После Разделения",
+      "gender": "—",
+      "appearance": "Жёлтые доспехи, иконка кулака, мастера фортификаций.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "примарх": "Рогал Дорн",
+        "сильные стороны": "оборона, осады, дисциплина"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Стены держатся на их клятвах"
+      },
+      {
+        "type": "p",
+        "content": "Они — плотники крепостей Империума. Их оборона на Терре стала легендой, а дисциплина — притчей во языцех."
+      },
+      {
+        "type": "h2",
+        "content": "Осада и контрудар"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Тяжёлая пехота, щиты-штурмовые"
+          },
+          {
+            "content": "Почётные ветераны — Кулаки Дорна"
+          },
+          {
+            "content": "Неприятие поражения на уровне догмы"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1028,
+    "author": "Администратор",
+    "title": "Железные Воины",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/Warhammer-40000-Iron-Warriors-Chaos-Space-Marine-Chaos-%28Wh-40000%29-8650958.jpeg",
+    "mainInfo": {
+      "name": "Железные Воины (Хаос)",
+      "image": "https://img0.reactor.cc/pics/post/L-J-Koh-artist-Iron-Warriors-Warhammer-40000-8608372.jpeg",
+      "age": 10000,
+      "birthday": "Ересь Гора",
+      "gender": "—",
+      "appearance": "Стальные и чёрные доспехи, полосы-опасности, артиллерийские клейма.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "примарх": "Пертурабо",
+        "доктрина": "осадная артиллерия, инженерия"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Гвозди, молоты и расчёт угла падения"
+      },
+      {
+        "type": "p",
+        "content": "Гении фортификации и контрфортификации. Срывают стены врагов методичной артиллерией и штурмовыми дрелями."
+      },
+      {
+        "type": "h2",
+        "content": "Машина осады"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Батареи, осадные танки, миномётные ординаты"
+          },
+          {
+            "content": "Холодная логика и цинизм"
+          },
+          {
+            "content": "Культ эффективности вместо религиозной истерии"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1029,
+    "author": "Администратор",
+    "title": "Тысяча Сынов",
+    "previewImg": "https://img1.reactor.cc/pics/post/full/Space-Marine-2-Wh-Games-Wh-Other-Warhammer-40000-8772439.png",
+    "mainInfo": {
+      "name": "Легион Тысячи Сынов (Хаос)",
+      "image": "https://img0.reactor.cc/pics/post/баянометр-молчал-Miguel-Iglesias-artist-Chaos-Sorcerer-8765888.jpeg",
+      "age": 10000,
+      "birthday": "Ересь Гора, Просперо",
+      "gender": "—",
+      "appearance": "Лазурно-золотые доспехи, египтизирующие маски, магические глифы.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "примарх": "Магнус Красный",
+        "особенность": "тотальная псионика, пыльные пустоши Рубрика"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Знание — цена и награда"
+      },
+      {
+        "type": "p",
+        "content": "Колдуны и учёные, заплатившие за тягу к знанию проклятием Рубрика: большинство братьев — пустые доспехи, наполненные пылью."
+      },
+      {
+        "type": "h2",
+        "content": "Архитекторы магии"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Шквалы варп-огня и проклятий"
+          },
+          {
+            "content": "Ковчеги-библиотеки, защита чароплетением"
+          },
+          {
+            "content": "Вечная вражда с Вульканом и Волками"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1030,
+    "author": "Администратор",
+    "title": "Саламандры",
+    "previewImg": "https://img1.reactor.cc/pics/post/full/Warhammer-40000-Salamanders-Space-Marine-Imperium-8777177.jpeg",
+    "mainInfo": {
+      "name": "Орден Саламандр",
+      "image": "https://img0.reactor.cc/pics/post/full/Warhammer-40000-Salamanders-Space-Marine-Imperium-8643814.jpeg",
+      "age": 10000,
+      "birthday": "После Разделения",
+      "gender": "—",
+      "appearance": "Зелёные доспехи, мотивы огня и ящеров, искусные кузнецы.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "примарх": "Вулкан",
+        "этика": "защита гражданских выше тактической выгоды"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Огонь кует милосердие"
+      },
+      {
+        "type": "p",
+        "content": "Славятся гуманностью: эвакуация мирных — не после, а во время боя. Умеют делать чудеса в мастерских."
+      },
+      {
+        "type": "h2",
+        "content": "Арсенал огня"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Плазма и огнемёты как подпись ордена"
+          },
+          {
+            "content": "Кузнецы-мастера создают реликвии веками"
+          },
+          {
+            "content": "Выдержка и стойкость на позициях"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1031,
+    "author": "Администратор",
+    "title": "Белые Шрамы",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/Warhammer-40000-White-Scars-Space-Marine-Imperium-9090908.jpeg",
+    "mainInfo": {
+      "name": "Орден Белых Шрамов",
+      "image": "https://img1.reactor.cc/pics/post/full/White-Scars-Space-Marine-Imperium-Warhammer-40000-8967969.jpeg",
+      "age": 10000,
+      "birthday": "После Разделения Легионов",
+      "gender": "—",
+      "appearance": "Белые доспехи с красными молниями и монгольскими мотивами.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "примарх": "Жакатай Хан",
+        "доктрина": "молниеносный удар, мобильность, байки"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Скачка-удар-исчезновение"
+      },
+      {
+        "type": "p",
+        "content": "Мастера манёвра: бьют быстро и глубоко, не вступая в затяжные бои. Для них война — искусство скорости."
+      },
+      {
+        "type": "h2",
+        "content": "Тактика степных охотников"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Штурмовые байки, спидеры и молниеносные десанты"
+          },
+          {
+            "content": "Охота на штаб и логистику противника"
+          },
+          {
+            "content": "Честь и братство кочевых кланов"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1032,
+    "author": "Администратор",
+    "title": "Космические Волки",
+    "previewImg": "https://img1.reactor.cc/pics/post/full/Warhammer-40000-Space-Wolves-Space-Marine-Imperium-8886743.jpeg",
+    "mainInfo": {
+      "name": "Орден Космических Волков",
+      "image": "https://img0.reactor.cc/pics/post/full/Warhammer-40000-Orks-Space-Marine-Imperium-9131284.jpeg",
+      "age": 10000,
+      "birthday": "После Разделения Легионов",
+      "gender": "—",
+      "appearance": "Серо-синие доспехи, клыки, руны, трофеи зверей Фенриса.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "примарх": "Лемен Русс",
+        "особенность": "дикость, презрение к формализмам"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Пир перед боем — бой как пир"
+      },
+      {
+        "type": "p",
+        "content": "Штурмовая ярость с акцентом на ближний бой и героизм лидеров стаи. Превозносят личную доблесть."
+      },
+      {
+        "type": "h2",
+        "content": "Стая и охота"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Вожаки-волколаки и Сага — хроники подвигов"
+          },
+          {
+            "content": "Грозовые когти, морские волчьи десанты"
+          },
+          {
+            "content": "Сложные отношения с Механикус и Псионикой"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1033,
+    "author": "Администратор",
+    "title": "Кровавые Вороны",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/Imperial-Guard-Imperium-Warhammer-40000-Servo-Skull-5811824.jpeg",
+    "mainInfo": {
+      "name": "Орден Кровавых Воронов",
+      "image": "https://img1.reactor.cc/pics/post/full/Warhammer-40000-librarian-%28wh-40000%29-Space-Marine-Imperium-7930571.jpeg",
+      "age": 4000,
+      "birthday": "Неясное происхождение",
+      "gender": "—",
+      "appearance": "Чёрные доспехи с красными символами, библиариусы и реликвии.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "репутация": "охотники за знаниями и артефактами",
+        "доктрина": "разведка, огонь и манёвр"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Кровь знаний на перьях"
+      },
+      {
+        "type": "p",
+        "content": "Их интерес к артефактам иногда граничит с одержимостью. Но именно найденные реликвии часто спасают миры."
+      },
+      {
+        "type": "h2",
+        "content": "Библиарий — сердце ордена"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Сильные псионные кадры, дисциплина огня"
+          },
+          {
+            "content": "Склады реликвий, музея-подобные арсеналы"
+          },
+          {
+            "content": "Гибкая командная структура"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1034,
+    "author": "Администратор",
+    "title": "Тёмные Механикус",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/Dark-Mechanicus-Chaos-%28Wh-40000%29-Warhammer-40000-Renegade-Knight-7679688.jpeg",
+    "mainInfo": {
+      "name": "Тёмные Механикус",
+      "image": "https://img10.reactor.cc/pics/post/full/art-арт-барышня-Dark-Mechanicus-Chaos-%28Wh-40000%29-9047235.jpeg",
+      "age": 10000,
+      "birthday": "Ересь Гора",
+      "gender": "—",
+      "appearance": "Искажённые сервиторы, демонические машины, кованые руны Варпа.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "культ": "пакт с демонами вместо Машинного Духа",
+        "арсенал": "инфернальные двигатели"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Когда логика сходит с резьбы"
+      },
+      {
+        "type": "p",
+        "content": "Отступники Марса, заменившие молитвы к Машинному Богу на демонические сделки. Их технологии — кощунственный симбиоз плоти и стали."
+      },
+      {
+        "type": "h2",
+        "content": "Профанация шаблонов"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Осквернённые ШТК, техноманты-колдуны"
+          },
+          {
+            "content": "Демонические движки и боевые титаны"
+          },
+          {
+            "content": "Работорговля разумами и нейросетями"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1035,
+    "author": "Администратор",
+    "title": "Кадайские Полки",
+    "previewImg": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6b06cd13-e561-4d2a-9dde-67591ea33a18/d1o0why-3f933dd8-d349-4bce-89c4-a1de2e1f03e4.jpg/v1/fill/w_1011,h_791,q_70,strp/charging_of_8th_cadia_regiment_by_lathander1987_d1o0why-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI1MiIsInBhdGgiOiIvZi82YjA2Y2QxMy1lNTYxLTRkMmEtOWRkZS02NzU5MWVhMzNhMTgvZDFvMHdoeS0zZjkzM2RkOC1kMzQ5LTRiY2UtODljNC1hMWRlMmUxZjAzZTQuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.vomWB33RIHFqC_rmGSbRHxnePpOX0Y3jXdTMun5w43k",
+    "mainInfo": {
+      "name": "Кадайские (Кадианские) полки",
+      "image": "https://assets.warhammer-community.com/lasguns-dec31-art6-cjvkkubarl.jpg",
+      "age": 10000,
+      "birthday": "Системы у Врат Ока Ужаса",
+      "gender": "—",
+      "appearance": "Стандартизованные кирасы, лазган, фиолетовые прицелы, зелёные мундиры.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "доктрина": "линейная оборона, артиллерийская поддержка",
+        "девиз": "Cadia Stands (Даже после падения)"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Стена, которая держала вечность"
+      },
+      {
+        "type": "p",
+        "content": "Полки Кадии веками сдерживали натиск Хаоса. После падения мира их наследие живёт в диаспоре — «Кадия живёт, пока жив хотя бы один кадианец»."
+      },
+      {
+        "type": "h2",
+        "content": "Огневой порядок"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Взаимодействие рот, взводов и батарей"
+          },
+          {
+            "content": "Жёсткая дисциплина и стандарты стрельбы"
+          },
+          {
+            "content": "Тяжёлые болтеры, базилиски, леманы"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1036,
+    "author": "Администратор",
+    "title": "Криг",
+    "previewImg": "https://i.ytimg.com/vi/hjDrdPtB-MU/maxresdefault.jpg",
+    "mainInfo": {
+      "name": "Полки Смерти с Крига",
+      "image": "https://cdn.bsky.app/img/avatar/plain/did:plc:a35jmhggifqillwurbtt2cah/bafkreifhq3ovnxx4pbcasqofoea2ujrppcxjqilygopt32hxhzfxis5xse@jpeg",
+      "age": 8000,
+      "birthday": "Рад-пустыни Крига",
+      "gender": "—",
+      "appearance": "Плащи, противогазы, кирзовые силуэты; штурм траншей.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "доктрина": "окопная война, волны штурма",
+        "идеал": "самопожертвование ради Императора"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Тишина противогазов"
+      },
+      {
+        "type": "p",
+        "content": "Криг известны фанатичной дисциплиной. Они принимают самые мрачные фронты и вычерпывают войну по ведру за раз."
+      },
+      {
+        "type": "h2",
+        "content": "Штурм траншей"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Сапёрные группы и подкопы"
+          },
+          {
+            "content": "Артподготовка и волновые атаки"
+          },
+          {
+            "content": "Неумолимая стойкость к потерям"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1037,
+    "author": "Администратор",
+    "title": "Астра Милитарум: Доктрина и структура",
+    "previewImg": "https://i.ytimg.com/vi/nNwi5US6Qfk/maxresdefault.jpg",
+    "mainInfo": {
+      "name": "Астра Милитарум (общая)",
+      "image": "https://i.ytimg.com/vi/XKp5MJ4IZdw/maxresdefault.jpg",
+      "age": 10000,
+      "birthday": "Реформы после Ереси Гора",
+      "gender": "—",
+      "appearance": "Униформа по мирам-вербовщикам, штандарты, комиссары.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "масштаб": "триллионы бойцов",
+        "подразделения": "пехота, бронетехника, артиллерия, авиация"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Молот Императора — по расписанию"
+      },
+      {
+        "type": "p",
+        "content": "Главная армия Империума. Делает невозможное логистикой, численностью и артиллерией, пока элита решает ключевые узлы."
+      },
+      {
+        "type": "h2",
+        "content": "Шаблоны войны"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Комиссары поддерживают мораль и порядок"
+          },
+          {
+            "content": "Миры-вербовщики со своими доктринами"
+          },
+          {
+            "content": "Леман-Рус, Бейниблейд, Басилиск — иконы поля боя"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1038,
+    "author": "Администратор",
+    "title": "Адептус Кустодес",
+    "previewImg": "https://img1.reactor.cc/pics/post/full/Warhammer-40000-Adeptus-Custodes-Imperium-8417587.jpeg",
+    "mainInfo": {
+      "name": "Золотая Гвардия Императора",
+      "image": "https://img1.reactor.cc/pics/post/full/Jaime-Martinez-artist-Adeptus-Custodes-Imperium-8429495.jpeg",
+      "age": 10000,
+      "birthday": "Терра, Дворец Императора",
+      "gender": "—",
+      "appearance": "Золотые панцири, копья-гардианы, алые плащи.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "роль": "личная стража Императора",
+        "уровень": "индивидуально сильнее Астартес"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Стражи порога вечности"
+      },
+      {
+        "type": "p",
+        "content": "Каждый — произведение генетического искусства. Их немного, но они — идеальные солдаты, отточенные веками караула."
+      },
+      {
+        "type": "h2",
+        "content": "Миссии исключительной важности"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Операции далеко за пределами Терры"
+          },
+          {
+            "content": "Дуэли с демон-примархами и чемпионами Хаоса"
+          },
+          {
+            "content": "Протоколы неприкосновенности Императорского Дворца"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1039,
+    "author": "Администратор",
+    "title": "Навигационный Астрателепатикум",
+    "previewImg": "https://i.pinimg.com/originals/4e/d5/61/4ed5613fc390a5de0e29cc5711055589.png",
+    "mainInfo": {
+      "name": "Астрателепатика и Навиархия",
+      "image": "https://static.wikia.nocookie.net/warhammer40k/images/6/6b/1310761e07a496f10c7fe56b13437f2f.png/revision/latest/scale-to-width-down/1000?cb=20160215105538&path-prefix=ru",
+      "age": 10000,
+      "birthday": "Учреждение Имперской Пси-службы",
+      "gender": "—",
+      "appearance": "Пси-капюшоны, шоры Навигаторов, гербы Домов Navis Nobilite.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "функция": "астропередача и варп-навигация",
+        "маяк": "Астраномикон на Терре"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Связь и путь через бурю"
+      },
+      {
+        "type": "p",
+        "content": "Астрателепаты передают мысли через варп ценой собственной жизни, а Навигаторы ведут флотилии по лучу Астраномикона."
+      },
+      {
+        "type": "h2",
+        "content": "Цена курса"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Домы Навигаторов — закрытая аристократия мутаций"
+          },
+          {
+            "content": "Палаты Псайкеров и санкционирование"
+          },
+          {
+            "content": "Тысячи жертв в день для поддержания маяка"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1040,
+    "author": "Администратор",
+    "title": "Рогал Дорн",
+    "previewImg": "https://i.ytimg.com/vi/BusS9qE3VoY/maxresdefault.jpg",
+    "mainInfo": {
+      "name": "Рогал Дорн",
+      "image": "https://i.pinimg.com/originals/f2/8f/8b/f28f8bdd4e8a4dedf992186c5e3b1bb8.jpg",
+      "age": 10300,
+      "birthday": "Эра Великого Крестового Похода",
+      "gender": "Мужской",
+      "appearance": "Жёлтые кирасы, аскетичное лицо, штурмовой щит и цепной меч.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "звание": "Примарх Имперских Кулаков",
+        "талант": "фортификация и оборона"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Твердыня среди бурь"
+      },
+      {
+        "type": "p",
+        "content": "Эталон стойкости. На Терре его бастионы держали натиск Легионов Хаоса, а дисциплина стала легендой орденов-наследников."
+      },
+      {
+        "type": "h2",
+        "content": "Наследие Дорна"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Разделение Легиона на ордена — акт верности Кодексу"
+          },
+          {
+            "content": "Штурмовые щиты и доктрина контрпрорыва"
+          },
+          {
+            "content": "Клятвы, высеченные в камне и крови"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1041,
+    "author": "Администратор",
+    "title": "Феррус Манус",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/сделал-сам-нарисовал-сам-Warhammer-40000-рисунки-IcyYmir%27a-1076598.jpeg",
+    "mainInfo": {
+      "name": "Феррус Манус",
+      "image": "https://img1.reactor.cc/pics/post/full/Warhammer-40000-Ferrus-Manus-Primarchs-Stephen-Sykes-6503095.jpeg",
+      "age": 10300,
+      "birthday": "Эра Великого Крестового Похода",
+      "gender": "Мужской",
+      "appearance": "Железные руки, чёрно-серые доспехи, строгий профиль.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "примарх": "Железные Руки",
+        "идеал": "плоть слаба — машина сильна"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Молот совершенства"
+      },
+      {
+        "type": "p",
+        "content": "Манус — фанатик эффективности и инженерного рационализма. Верил, что слабость искореняется сталью и дисциплиной."
+      },
+      {
+        "type": "h2",
+        "content": "Кузни Медузы"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Огромные технокланы и культ аугментаций"
+          },
+          {
+            "content": "Непримиримость к неэффективности"
+          },
+          {
+            "content": "Традиция «железных отрядов» после Ереси"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1042,
+    "author": "Администратор",
+    "title": "Пертурабо",
+    "previewImg": "https://i.pinimg.com/736x/76/c0/52/76c052a2c9f5cfa01df8ea41d40cea36.jpg",
+    "mainInfo": {
+      "name": "Пертурабо",
+      "image": "https://img0.reactor.cc/pics/post/Warhammer-40000-Perturabo-Primarchs-artist-8655344.jpeg",
+      "age": 10300,
+      "birthday": "Эра Великого Крестового Похода",
+      "gender": "Мужской",
+      "appearance": "Серые доспехи, инструментальные марки, холодный взгляд.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "примарх": "Железные Воины",
+        "талант": "осады, математика войны"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Геометрия разрушения"
+      },
+      {
+        "type": "p",
+        "content": "Пертурабо — мастер осадной войны. Его гордость и обида стали пищей для Хаоса."
+      },
+      {
+        "type": "h2",
+        "content": "Чертёж штурма"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Батареи осадных орудий и базилисков"
+          },
+          {
+            "content": "Лабиринты фортификаций и ловушек"
+          },
+          {
+            "content": "Ненависть к «неблагодарности» Империума"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1043,
+    "author": "Администратор",
+    "title": "Ангрон",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/Roboute-Guilliman-Primarchs-Warhammer-40000-Angron-8621494.jpeg",
+    "mainInfo": {
+      "name": "Ангрон",
+      "image": "https://img1.reactor.cc/pics/post/full/Angron-Primarchs-Warhammer-40000-Horus-Heresy-8672313.jpeg",
+      "age": 10300,
+      "birthday": "Арена Нюсирии",
+      "gender": "Мужской",
+      "appearance": "Церемониальные шипы, гладиаторские цепные топоры.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "примарх": "Мировые Пожиратели",
+        "проклятие": "«гвозди ярости» в мозге"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Гнев как кислород"
+      },
+      {
+        "type": "p",
+        "content": "Гладиатор-раб, превращённый в демона Кхорна. Его легион растворился в берсеркерстве."
+      },
+      {
+        "type": "h2",
+        "content": "Кровь на аренах звёзд"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Культ ближнего боя и цепных топоров"
+          },
+          {
+            "content": "Презрение к стратегии, кроме «в лоб»"
+          },
+          {
+            "content": "Вознесение в демон-примархи"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1044,
+    "author": "Администратор",
+    "title": "Фулгрим",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/уральские-пельмени-Fulgrim-Primarchs-Warhammer-40000-9037396.jpeg",
+    "mainInfo": {
+      "name": "Фулгрим",
+      "image": "https://img1.reactor.cc/pics/post/full/Warhammer-40000-Fulgrim-Primarchs-Horus-Heresy-8657335.jpeg",
+      "age": 10300,
+      "birthday": "Эра Великого Крестового Похода",
+      "gender": "Мужской",
+      "appearance": "Серебристо-фиолетовые доспехи, эстетика и клинки.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "примарх": "Дети Императора",
+        "мания": "совершенство и излишество"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Когда красота предаёт"
+      },
+      {
+        "type": "p",
+        "content": "Стремление к идеалу привело Фулгрима к Слаанеш. Совершенство обернулось извращением."
+      },
+      {
+        "type": "h2",
+        "content": "Клинок и ария"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Дуэли, парадная резня, культ ощущений"
+          },
+          {
+            "content": "Искажённая музыка войны"
+          },
+          {
+            "content": "Демон-примарх декаданса"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1045,
+    "author": "Администратор",
+    "title": "Мортарион",
+    "previewImg": "https://img1.reactor.cc/pics/post/full/Warhammer-40000-Mortarion-Primarchs-Jaghatai-Khan-8194267.jpeg",
+    "mainInfo": {
+      "name": "Мортарион",
+      "image": "https://img0.reactor.cc/pics/post/full/Warhammer-40000-Horus-Heresy-Wh-Past-Primarchs-8245132.jpeg",
+      "age": 10300,
+      "birthday": "Токсичные туманы Барбаруса",
+      "gender": "Мужской",
+      "appearance": "Коса, тлетворные испарения, чумные иконки.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "примарх": "Гвардия Смерти",
+        "покровитель": "Нургл"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Терпение гнили"
+      },
+      {
+        "type": "p",
+        "content": "Смерть — неизбежность. Мортарион сделал из этого доктрину стойкости и разложения."
+      },
+      {
+        "type": "h2",
+        "content": "Поступь чумы"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Тяжёлая пехота, неумолимый прессинг"
+          },
+          {
+            "content": "Чумные орудия и токсинные бомбы"
+          },
+          {
+            "content": "Демон-примарх бренности"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1046,
+    "author": "Администратор",
+    "title": "Конрад Кёрз",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/Konrad-Curze-Primarchs-Warhammer-40000-Hinchel-Or-7216898.jpeg",
+    "mainInfo": {
+      "name": "Конрад Кёрз",
+      "image": "https://img10.reactor.cc/pics/post/full/kodiablo-Нейросетевые-Барышни-арт-барышня-art-9130692.jpeg",
+      "age": 10300,
+      "birthday": "Ноктюрн-подобная тьма Нострамо",
+      "gender": "Мужской",
+      "appearance": "Теневой плащ, кромка безумия, хищные черты.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "примарх": "Ночные Лорды",
+        "метод": "террор как инструмент порядка"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Мораль кромочного света"
+      },
+      {
+        "type": "p",
+        "content": "Кёрз верил: страх удерживает общество от преступления. Когда свет погас — тьма поглотила и его."
+      },
+      {
+        "type": "h2",
+        "content": "Крылья ночи"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Удары по гражданским узлам и морали"
+          },
+          {
+            "content": "Психологические операции, трофейные ужасы"
+          },
+          {
+            "content": "Самоисполнение пророчества гибели"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1047,
+    "author": "Администратор",
+    "title": "Жакатай Хан",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/Warhammer-40000-Jaghatai-Khan-Primarchs-White-Scars-8998316.jpeg",
+    "mainInfo": {
+      "name": "Жакатай Хан",
+      "image": "https://img0.reactor.cc/pics/post/full/Джагатай-Хан-примарх-Warhammer-40000-Jaghatai-Khan-6344172.jpeg",
+      "age": 10300,
+      "birthday": "Степи Чогориса",
+      "gender": "Мужской",
+      "appearance": "Белые доспехи, резные орнаменты, ветер в волосах.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "примарх": "Белые Шрамы",
+        "принцип": "скорость — форма мудрости"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "След ветра"
+      },
+      {
+        "type": "p",
+        "content": "Хан — поэт манёвра. Побеждает тем, что появляется там, где его не ждут, и исчезает до ответа."
+      },
+      {
+        "type": "h2",
+        "content": "Кочевой кодекс"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Глубокие рейды и отсечение коммуникаций"
+          },
+          {
+            "content": "Засады на тыл, слом управления"
+          },
+          {
+            "content": "Честь степного братства"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1048,
+    "author": "Администратор",
+    "title": "Альфарий/Омегон",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/Elijah-ArhPriest-artist-Warhammer-40000-Omegon-6929882.jpeg",
+    "mainInfo": {
+      "name": "Альфа-двойня",
+      "image": "https://img1.reactor.cc/pics/post/full/Warhammer-40000-Alpharius-Primarchs-Laura-Vazquez-8822953.jpeg",
+      "age": 10300,
+      "birthday": "Тайна происхождения",
+      "gender": "Мужской",
+      "appearance": "Идентичные примархи, маскировка, химерные легенды.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "примарх": "Альфа-Легион",
+        "девиз": "Мы — Альфа. Мы — многие."
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Если всё — план, что тогда истина?"
+      },
+      {
+        "type": "p",
+        "content": "Альфа-Легион живёт в многослойных операциях. Никто не уверен, кого они на самом деле обслуживают — и это часть плана."
+      },
+      {
+        "type": "h2",
+        "content": "Инфильтрация как искусство"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Шпионаж, подмена, ложные знамена"
+          },
+          {
+            "content": "Культивация ячеек-сочувствующих"
+          },
+          {
+            "content": "Операции без узнаваемых следов"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1049,
+    "author": "Администратор",
+    "title": "Рогу Трейдеры",
+    "previewImg": "https://images.rpgsite.net/entities/thumbnail/da49c9a1/1898/original/rogue-trader-mini.jpg",
+    "mainInfo": {
+      "name": "Свободные торговцы",
+      "image": "https://img1.reactor.cc/pics/post/full/Warhammer-40000-Rogue-Trader-%28CRPG%29-Wh-Games-Wh-Other-9029275.jpeg",
+      "age": 10000,
+      "birthday": "Древние грамоты и харти",
+      "gender": "—",
+      "appearance": "Аристократия космоса, штандарты династий, корабли-поместья.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "право": "исследование и торговля вне строгих законов",
+        "риск": "варп, ксеносы, политика"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Лицензия на неизвестность"
+      },
+      {
+        "type": "p",
+        "content": "Рогу трейдеры — авантюристы Империума. Они находят новые миры, заключают спорные сделки и иногда спасают целые сектора."
+      },
+      {
+        "type": "h2",
+        "content": "Династии и уставы"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Собственные армии и прикладные псионы"
+          },
+          {
+            "content": "Дипломатия с периферийными цивилизациями"
+          },
+          {
+            "content": "Прибыль как двигатель экспансии"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1050,
+    "author": "Администратор",
+    "title": "Навиархия Империума",
+    "previewImg": "https://img0.reactor.cc/pics/post/full/Warhammer-40000-imperial-fleet-Wh-Starship-Michele-Boceda-7967808.jpeg",
+    "mainInfo": {
+      "name": "Имперский Флот (Navis Imperialis)",
+      "image": "https://img0.reactor.cc/pics/post/full/Wh-Other-Warhammer-40000-Imperial-Navy-Imperium-8989134.jpeg",
+      "age": 10000,
+      "birthday": "Реформы после Ереси",
+      "gender": "—",
+      "appearance": "Громады линкоров, готические арки, благовония в машинных залах.",
+      "height": "—",
+      "weight": "—",
+      "other": {
+        "функция": "господство в космосе",
+        "состав": "линкоры, крейсеры, эскорт, авиакрылья"
+      }
+    },
+    "mainContent": [
+      {
+        "type": "h1",
+        "content": "Щит звёздных путей"
+      },
+      {
+        "type": "p",
+        "content": "Флот охраняет торговые артерии, конвои и ударные группы Астартес. Без него Империум распался бы на острова."
+      },
+      {
+        "type": "h2",
+        "content": "Организация и ритуал"
+      },
+      {
+        "type": "ul",
+        "content": [
+          {
+            "content": "Адмиралтейство, баталии, эскадры"
+          },
+          {
+            "content": "Навигаторы и Астраномикон — сердце маршрутов"
+          },
+          {
+            "content": "Экзорцизмы машинного духа перед боем"
+          }
+        ]
+      }
+    ]
+  }
+]

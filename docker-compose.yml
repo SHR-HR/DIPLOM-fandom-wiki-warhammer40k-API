@@ -1,0 +1,30 @@
+# Конфигурация Docker Compose для оркестрации сервисов
+# Определяет сервисы, сети, тома и переменные окружения
+
+services:
+  # Сервис API приложения
+  api:
+    build: .  # Сборка из Dockerfile в текущей директории
+    container_name: deep_lom_ka-api  # Фиксированное имя контейнера
+    
+    # Проброс портов: хост:контейнер
+    # ${API_PORT:-8000} : использует переменную окружения API_PORT или 8000 по умолчанию
+    ports:
+      - "${API_PORT:-8000}:8000"
+    
+    # Монтирование томов для разработки и сохранения данных:
+    volumes:
+      - ./data:/app/data         # Постоянное хранение статей и пользователей
+      - ./main.py:/app/main.py   # Hot-reload основного файла
+      - ./app:/app/app           # Hot-reload пакета приложения
+      # Монтирование внешней директории с seed-данными
+      - ../PROJECT-DEEP_LOO_MKA/src/seed/snapshots:/app/../PROJECT-DEEP_LOO_MKA/src/seed/snapshots
+    
+    # Политика перезапуска: автоматически перезапускать кроме случаев ручной остановки
+    restart: unless-stopped
+    
+    # Переменные окружения:
+    environment:
+      - UVICORN_RELOAD=true  # Включение hot-reload для uvicorn
+
+      
